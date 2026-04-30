@@ -1,0 +1,16 @@
+{
+  "name": "decentralized-reservation-system",
+  "version": "1.0.0",
+  "description": "Blokzincir Tabanlı Merkeziyetsiz Masa Rezervasyon Sistemi - Görev 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test",
+    "compile": "npx hardhat compile"
+  },
+  "author": "Gamze Nur Polat",
+  "license": "MIT",
+  "dependencies": {
+    "@chainlink/contracts": "^0.8.0",
+    "hardhat": "^2.19.0"
+  }
+}
