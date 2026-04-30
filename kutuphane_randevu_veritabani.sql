@@ -1,12 +1,4 @@
 -- =========================================================
--- Akilli Kutuphane Rezervasyon Sistemi - PostgreSQL Script
--- Tablolar + Seed Data + Function/Procedure + Trigger + Index
--- =========================================================
-
--- Bu dosya PostgreSQL / Supabase SQL Editor'da calistirilabilir.
--- Not: Turkce karakter kullanmamak icin tablo/kolon isimleri ASCII yazilmistir.
-
--- =========================================================
 -- 1. TABLOLAR
 -- =========================================================
 
